@@ -1,0 +1,132 @@
+.mast-login {
+  background-color: white;
+  margin: 100px 200px 0px 200px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  aligh-items: center;
+  padding: 30px;
+
+
+}
+.telegram-logo {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 150px 0px 100px 150px;
+  border-right-style: solid;
+  border-right-color: #EEEEEE;
+
+
+
+}
+
+
+.header {
+
+  font-size: 22px;
+  color: #000000;
+  padding:50px;
+  position: absolute;
+  top: 200px;
+  right: 520px;
+  width: 300px;
+  height: 100px;
+}
+
+.login-section {
+
+  width: 50%;
+  float: right;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column;
+  padding: 150px;
+
+
+
+
+
+}
+
+.postmark-logo {
+ position: absolute;
+ top: 120px;
+ right: 100px;
+ width: 300px;
+ height: 100px;
+
+
+}
+.form-section{
+  padding-top: 50px;
+
+
+
+}
+.usernamefield{
+  float: left;
+  position: absolute;
+  top: 290px;
+  right: 450px;
+  width: 320px;
+  height: 30px;
+  border: 0;
+  border-bottom: 1px solid #EEEEEE;
+  font-size: 13px;
+  color: #000000;
+
+}
+.passwordfield{
+  float: left;
+  position: absolute;
+  top: 320px;
+  right: 450px;
+  width: 320px;
+  height: 30px;
+  border: 0;
+  border-bottom: 1px solid #EEEEEE;
+  font-size: 13px;
+  color: #000000;
+
+}
+.login-button{
+  position: absolute;
+  top: 380px;
+  right: 700px;
+  width: 70px;
+  height: 30px;
+  background-color: white;
+  border: 1px solid #0084B2;
+  color: #0084B2;
+  font-size: 13px;
+  font-style: bold;
+
+}
+.links{
+  position: absolute;
+  top: 375px;
+  right:400px;
+  width: 200px;
+  height: 30px;
+  font-size: 13px;
+
+}
+.links a {
+
+  font-size: 13px;
+  color: #0084B2;
+  text-decoration: none;
+}
+
+
+body {
+  background-color: #008CB8;
+  font-family: 'open-sans';
+
+}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
